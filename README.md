@@ -1,5 +1,5 @@
 ### Hi there 👋
-- 🔭 I’m currently completing Microsoft Student Accelerator! Let's do it!
+- 🥳 I’m currently completing Microsoft Student Accelerator! Let's do this!
 
 <!--
 **joni-watson/joni-watson** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
